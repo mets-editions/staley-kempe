@@ -1,4 +1,4 @@
-# staley-kempe
+# staley-margery
 
 This repository is for the edition _The Book of Margery Kempe_, edited by Lynn Staley. It contains:
 
